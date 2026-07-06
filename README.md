@@ -28,6 +28,28 @@ The objective is to understand the dataset characteristics, identify class imbal
 8. Train-Test Split
 9. Data Preparation for Machine Learning
 
+## Sample Analysis Results
+
+### Class Distribution Analysis
+
+![Class Distribution](images/class_distribution_analysis.jpg)
+
+### Outlier Detection Analysis
+
+![Outlier Detection](images/outlier_detection_analysis.jpg)
+
+### Feature Scaling Analysis
+
+![Feature Scaling](images/feature_scaling_analysis.jpg)
+
+### Correlation Heatmap Analysis
+
+![Correlation Heatmap](images/correlation_heatmap_analysis.jpg)
+
+### Train-Test Split Analysis
+
+![Train-Test Split](images/train_test_split_analysis.jpg)
+
 ## Technologies Used
 
 - Python
